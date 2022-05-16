@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Activitățile mele extrașcolare </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="#Dans, #muzică, #sport!">
+<meta name="description" content="Pe lângă școală mereu am avut diverse activități datorita cărora pe viitor o sa îmi fie mai ușor sa îmi aleg profesia.">
+<style>
+body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h1{text-align:center;font-family:Times, serif;letter-spacing:2px;color:#2c444d;background-color:#6b492e;}
+p {text-align:left;font-family:Times, serif;font-size:16px;font-style:normal;font-weight:bold;color:#417880;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h1>Dansul și Muzica</h1>
+<p>Dansul și Muzica m-au însoțit încă de la grădiniță. Cânt la pian și cu vocea. Totodată dețin numeroase premii la diverse competiții internaționale la dans sportiv.</p>
+</body>
+</html>
